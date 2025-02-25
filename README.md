@@ -51,9 +51,9 @@ Ensure you have the following installed:
    ```
 5. Configure MySQL database in `application.properties` (backend/src/main/resources):
    ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/lms_db
+   spring.datasource.url=jdbc:mysql://localhost:3306/db11
    spring.datasource.username=root
-   spring.datasource.password=your_password
+   spring.datasource.password=root
    ```
 
 ## Usage
